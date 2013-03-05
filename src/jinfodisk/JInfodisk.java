@@ -15,5 +15,8 @@ public class JInfodisk {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    String s;
+    s = "someText";
+    System.out.println(s);
     }
 }
